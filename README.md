@@ -1,4 +1,4 @@
-# DPower-BI-ata-Professional-Survey-Breakdown
+# Power-BI-Data-Professional-Survey-Breakdown
 This repository provides a comprehensive analysis of data professionals from various countries. The survey delves into several key areas, including:
 
 - Average Salary: Detailed insights into the compensation of data professionals across different regions.
